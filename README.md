@@ -1,6 +1,6 @@
 # React Card Input Mask
 
-Demo Screen:
+## Demo Screen:
 <a href="https://ibb.co/jfZ3Wy4"><img src="https://i.ibb.co/T2qPb4h/react-card-input-mask.png" alt="react-card-input-mask" border="0"></a>
 
 In the project directory, you can run:
